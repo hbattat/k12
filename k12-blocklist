@@ -1,0 +1,10 @@
+127.0.0.1  localhost
+::1  localhost
+
+# [classlink.com]
+127.0.0.1 myapps.classlink.com
+127.0.0.1 classlink.com
+
+# [classlink.com]
+127.0.0.1 scholastic.com
+127.0.0.1 go.scholastic.com
